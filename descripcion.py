@@ -1,5 +1,5 @@
-nombre  = "Juan"
-apellido= "Villar"
+nombre  = "Gordon"
+apellido= "Freeman"
 edad = "20"
 
 mensaje = "Soy "+nombre+" "+apellido
