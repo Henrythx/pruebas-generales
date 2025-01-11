@@ -1,6 +1,6 @@
 nombre  = "Gordon"
 apellido= "Freeman"
-edad = "20"
+edad = "30"
 
 mensaje = "Soy "+nombre+" "+apellido
 
